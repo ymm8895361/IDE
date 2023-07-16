@@ -15,7 +15,7 @@ import numpy as np
 
 def game_core_v3(number) -> int:
     #import numpy as np
-    # number = np.random.randint(1, 101)  # компьютер загадывает число
+    # number = np.random.randint(1, 101)  # генерируется загаданное число
     # print("num:", number)
     pr_min = 1
     pr_max = 101
